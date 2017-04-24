@@ -1,0 +1,9 @@
+{
+  "name": "build-number",
+  "version": "0.0.0",
+  "description": "Detect CI build number",
+  "main": "index.js",
+  "repository": "git@github.com:nkt/build-number.git",
+  "author": "Nikita Gusakov <gusnkt@gmail.com>",
+  "license": "MIT"
+}
